@@ -56,3 +56,20 @@ Preliminary research was conducted with three college students. The findings are
 ## Disclaimer
 
 This is an independent UX case study and is not affiliated with or endorsed by YouTube or Google.
+
+## 📱 UI Screenshots
+
+### Home
+![Home Screen](Home.png)
+
+### Explore
+![Explore Screen](Explore.png)
+
+### My Learning
+![My Learning Screen](My-Learning.png)
+
+### Progress
+![Progress Screen](Progress.png)
+
+### Profile
+![Profile Screen](Profile.png)
