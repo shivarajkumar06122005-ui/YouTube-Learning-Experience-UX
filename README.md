@@ -1,6 +1,3 @@
-# YouTube-Learning-Experience-UX
-A UX case study exploring an improved YouTube learning experience for college students.
-
 # YouTube Learning Experience – UX Case Study
 
 A UX design case study exploring an improved YouTube learning experience for college students.
